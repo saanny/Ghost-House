@@ -1,5 +1,5 @@
 Ghost House
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/static/screen-house.png?raw=true)
+![alt text](https://github.com/saanny/Hounte-House/blob/main/static/screen-house.png)
 
 ## Setup
 
